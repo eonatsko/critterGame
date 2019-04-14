@@ -1,2 +1,2 @@
 # critterGame
-This GUI is an example of gaming strategy implementation in Java.
+This GUI is an example of gaming strategy implementation in Java. It is a simulation program that controls the movement of four types of Critters. The program will allow any number of Critters to be added to the world, which is a JPanel in an applet. The Critter to be added is selected by pressing on the corresponding button for the Critter. The simulation can be started or stopped at any time, using the Start and Stop buttons. Additionally, all Critters can be removed from the simulation and from the screen with the Clear button. You can run the game through your terminal.
